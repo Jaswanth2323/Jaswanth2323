@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth2323&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth2323" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 Building up Jaswanth's **Portfolio**
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱  currently learning **Full Stack Web development**
 
-- 💬 Ask me about **HTML,CSS,Javascript,My Sql**
+- 💬 Ask me about **HTML,CSS,Tailwind,Javascript,React,My Sql,MongoDb**
 
 - 📫 How to reach me **jaswanthvelicheti@gmail.com**
 
