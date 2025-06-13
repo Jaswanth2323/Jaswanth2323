@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswanth2323&label=Profile%20views&color=0e75b6&style=flat" alt="jaswanth2323" /> </p>
 
-- 🔭 Building up Jaswanth's **Portfolio**
+- 🔭 Building up ML **LLM model**
 
 - 🌱  currently learning **Full Stack Web development**
 
